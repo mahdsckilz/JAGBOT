@@ -114,14 +114,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DiscordBot.exe" size="82384">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DiscordBot.exe" size="83920">
       <assemblyIdentity name="DiscordBot" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>bmL4V+6cR/nOH7dGs4U/hYCUIXBRqPSIg5maro5wIrg=</dsig:DigestValue>
+        <dsig:DigestValue>RZvgoZYgC1DYVS60BUW7sOw0HhOCndZBHRDUl4Syz0c=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -926,13 +926,13 @@
       <dsig:DigestValue>47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Resources\memberlist.csv" size="565" writeableType="applicationData">
+  <file name="Resources\memberlist.csv" size="624" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>qBv/OViF3wDlS2+mHqheSXMPyY1e3QfmBFP+wseOMTc=</dsig:DigestValue>
+      <dsig:DigestValue>lW+/LIH9MyPl6YcP2wdkeHeNBFg3aStD98lZnGWxFuU=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
