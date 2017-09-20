@@ -121,7 +121,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>6Vghx2tiPSkKV8rIEKRIxNpzPiZWeZqA9fruWW3g9Zo=</dsig:DigestValue>
+        <dsig:DigestValue>1ebsw+xOcUkNwsfZCNs4Drhu/YWqN9IMXNriC28IwSY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -926,13 +926,13 @@
       <dsig:DigestValue>47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Resources\memberlist.csv" size="638" writeableType="applicationData">
+  <file name="Resources\memberlist.csv" size="757" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>sUWtNGCKm82JU6VuywquQHrK7PzICQpX/qZF2CKQCjw=</dsig:DigestValue>
+      <dsig:DigestValue>F8yqo1gKGfCjsON3CX9WVNxIDO91Xb5RWMB4LSWcv5o=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
